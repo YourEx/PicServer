@@ -1,0 +1,22 @@
+{
+  "name": "blabla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "async": "^1.2.1",
+    "express": "^4.x",
+    "gm": "^1.18.1",
+    "mocha": "^2.2.5",
+    "mongodb": "^2.0.39",
+    "mongoose": "^4.x",
+    "pkgcloud": "^1.1.0",
+    "promise": "^7.0.3",
+    "request": "^2.58.0"
+  }
+}

@@ -1,0 +1,1 @@
+set PATH=C:\Program Files\ImageMagick-6.9.1-Q16

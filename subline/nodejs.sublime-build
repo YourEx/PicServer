@@ -1,0 +1,39 @@
+{
+	"cmd": ["run.cmd"],
+ 	"variants": [
+           { 
+		"name": "Run-tests",
+          	"cmd": ["$project_path\\run.cmd", "test", "$file"],	
+          	"shell": true
+           },
+           { 
+		"name": "Run",
+          	"cmd": ["$project_path\\run.cmd", "run", "$file"],	
+          	"shell": true
+           },
+           { 
+		"name": "Debug",
+          	"cmd": ["$project_path\\run.cmd", "debug", "$file"],	
+          	"shell": true
+           },
+           { 
+		"name": "Debug-tests",
+          	"cmd": ["$project_path\\run.cmd", "debug-tests", "$file"],	
+          	"shell": true
+           },
+
+           { 
+		"name": "Kill",
+          	"cmd": ["$project_path\\run.cmd", "kill", "$file"],	
+          	"shell": true
+           },
+
+           { 
+		"name": "Debug-console",
+          	"cmd": ["$project_path\\run.cmd", "debug-console", "$file"],	
+          	"shell": true
+           }
+
+    	]
+	
+}

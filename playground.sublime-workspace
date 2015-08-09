@@ -1,0 +1,706 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"alb",
+				"albumId"
+			],
+			[
+				"al",
+				"albums"
+			],
+			[
+				"album",
+				"albumId"
+			],
+			[
+				"p",
+				"photos"
+			],
+			[
+				"file",
+				"fileStorageResults"
+			],
+			[
+				"uplo",
+				"uploadReq"
+			],
+			[
+				"de",
+				"debugger"
+			],
+			[
+				"user",
+				"userSchema"
+			],
+			[
+				"Uplo",
+				"UploadRequest"
+			],
+			[
+				"ex",
+				"exec"
+			],
+			[
+				"upl",
+				"uploadReq"
+			],
+			[
+				"we",
+				"writeStream"
+			],
+			[
+				"Up",
+				"UploadRequest"
+			],
+			[
+				"Upload",
+				"UploadManager"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"fi",
+				"fileName"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"User",
+				"Users"
+			],
+			[
+				"c",
+				"createFbUser"
+			],
+			[
+				"mon",
+				"mongoose"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "FileStorage.js",
+			"settings":
+			{
+				"buffer_size": 5265,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "spec/FileStorageTests.js",
+			"settings":
+			{
+				"buffer_size": 2299,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "cloudStorage.js",
+			"settings":
+			{
+				"buffer_size": 5498,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "playground.sublime-project",
+			"settings":
+			{
+				"buffer_size": 136,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "schema/Album.js",
+			"settings":
+			{
+				"buffer_size": 990,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "schema/User.js",
+			"settings":
+			{
+				"buffer_size": 3478,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "schema/UploadRequest.js",
+			"settings":
+			{
+				"buffer_size": 1278,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "schema/Picture.js",
+			"settings":
+			{
+				"buffer_size": 816,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "UploadManager.js",
+			"settings":
+			{
+				"buffer_size": 2374,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "spec/UploadManagerTests.js",
+			"settings":
+			{
+				"buffer_size": 1351,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 334.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 101.0,
+		"history":
+		[
+			"node",
+			"dir",
+			"ls",
+			"cd..",
+			"dir",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Administrator/Documents/GitHub/PicServer"
+	],
+	"file_history":
+	[
+		"/C/Users/Administrator/Documents/NodePlayground/UploadManager.js",
+		"/C/Users/Administrator/Documents/NodePlayground/schema/UploadRequest.js",
+		"/C/Users/Administrator/Documents/NodePlayground/schema/Album.js",
+		"/C/Users/Administrator/Documents/NodePlayground/package.json",
+		"/C/Users/Administrator/Documents/NodePlayground/db.js",
+		"/C/Users/Administrator/Documents/NodePlayground/spec/FileStorageTests.js",
+		"/C/Users/Administrator/Documents/NodePlayground/FileStorage.js",
+		"/C/Users/Administrator/Documents/NodePlayground/test.js",
+		"/C/Users/Administrator/Documents/NodePlayground/image.js",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator/Documents/NodePlayground/server.js",
+		"/C/Users/Administrator/Documents/NodePlayground/spec/DbTests.js",
+		"/C/Users/Administrator/Documents/NodePlayground/playground.sublime-project",
+		"/C/Users/Administrator/Documents/NodePlayground/cloudStorage.js",
+		"/C/Users/Administrator/Documents/GitHub/Picochoon/public/src/services/content/contentProvider.js",
+		"/C/Users/Administrator/Documents/NodePlayground/untitled.sublime-build",
+		"/C/Users/Administrator/Documents/NodePlayground/run2.cmd",
+		"/C/Users/Administrator/Documents/GitHub/Picochoon/public/src/loc/us-US.js",
+		"/C/Users/Administrator/Documents/GitHub/Picochoon/routes/api.js",
+		"/C/Users/Administrator/Documents/GitHub/Picochoon/routes/album.js",
+		"/C/Users/Administrator/Documents/GitHub/Picochoon/routes/user.js",
+		"/C/Users/Administrator/Documents/GitHub/Picochoon/server.js",
+		"/C/Users/Administrator/Documents/GitHub/Picochoon/public/src/services/facebook.js",
+		"/C/Users/Administrator/Documents/GitHub/Picochoon/public/src/services/content/album.js",
+		"/C/Users/Administrator/Documents/GitHub/Picochoon/middleware/middleware.js",
+		"/C/Users/Administrator/Documents/GitHub/Picochoon/public/src/services/content/photo.js",
+		"/C/Users/Administrator/Documents/GitHub/Picochoon/server-debug.js",
+		"/C/Users/Administrator/Documents/GitHub/Picochoon/spec/public/app/ui/bindings/pchAlbumFolderSpec.js",
+		"/C/Users/Administrator/Documents/GitHub/Picochoon/schema/schema.js",
+		"/C/Users/Administrator/Documents/GitHub/Picochoon/Gruntfile.js",
+		"/C/Users/Administrator/Documents/GitHub/Picochoon/node_modules/cors/lib/index.js",
+		"/C/Users/Administrator/Documents/GitHub/Picochoon/node_modules/grunt-contrib-requirejs/node_modules/requirejs/bin/r.js",
+		"/C/Users/Administrator/Documents/GitHub/Picochoon/public/src/appConfig.js",
+		"/C/Users/Administrator/Documents/GitHub/Picochoon/db/albums.json",
+		"/C/Users/Administrator/Documents/GitHub/Picochoon/node_modules/grunt-contrib-less/node_modules/less/dist/less-1.5.0.js",
+		"/C/Users/Administrator/Documents/GitHub/Picochoon/public/src/less/app.less",
+		"/C/Users/Administrator/Documents/GitHub/Picochoon/hello.png",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"extend",
+			"uploa",
+			"static",
+			"require",
+			"initDb",
+			"mongoose",
+			"mongoskin",
+			"});\n",
+			";\n",
+			"User",
+			"passport",
+			"passp",
+			"strat",
+			"album",
+			"Album",
+			"use",
+			"strate",
+			"FacebookStrategy",
+			"userspace",
+			"usersspaxe",
+			"userspace"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "FileStorage.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1145,
+								1164
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 373.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "spec/FileStorageTests.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1520,
+								1539
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 456.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "cloudStorage.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5498,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "playground.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								133,
+								133
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "schema/Album.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 990,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4,
+								12
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "schema/User.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2659,
+								2659
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 1425.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "schema/UploadRequest.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1278,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								987,
+								987
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 570.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "schema/Picture.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 816,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								488,
+								488
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 399.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "UploadManager.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								132,
+								132
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "spec/UploadManagerTests.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								764,
+								764
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 342.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 288.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "playground.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"run2.cmd"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Administrator\\Documents\\GitHub\\Picochoon\\pico.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
